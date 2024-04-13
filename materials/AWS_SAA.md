@@ -19,6 +19,25 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
     * https://aws.amazon.com/jp/training/digital/
     * https://aws.amazon.com/jp/events/aws-event-resource/hands-on/
 
+## memo
+### 2章 グローバルインフラストラクチャとネットワーク
+* gatewayの種類と役割が述べられていた。
+* VPNの種類について述べられていた。
+    * 外部からVirtual Private Cloudに接続する方法。
+* VPC間の通信はGWを介す必要がある。
+    * スターネットワーク
+
+### 3章 コンピューティングの関連サービス
+* EC2 - Amazon Elastic Compute Cloud (EC2)
+    * 仮想サーバーを提供する。
+    * IaaS
+    * Elastic Load Balancing(ELB)・Auto Scaling
+* ECS - Amazon Elastic Container Service (ECS)
+    * Dockerコンテナの実行環境
+    * Elastic Kubernetes Service
+* AWS Lambda
+    * サーバーレスアーキテクチャ
+    * 使ったことある
 ## 所感.
 * 質問に答えるだけで簡単そう。
 
