@@ -50,6 +50,12 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
     * ゲートウェイはオンプレにあるデータをクラウドストレージに送信する際に使う
         * 利用目的により複数種ある
 
+### 5章 データベースサービス
+サービスは以下の4種類に分類できる。
+* RDB
+* NoSQL
+* 時系列
+* 台帳
 
 
 
