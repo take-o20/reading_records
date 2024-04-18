@@ -57,7 +57,17 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * 時系列
 * 台帳
 
+### 6章 ネットワーキングとコンテンツ配信
+* CloudFront
+    * キャッシュを使うことでCDNとしての役割を果たす
+* Route 53
+    * DNSの役割を果たす
+* Global Accelerator
+    * 2地点を高速なネットワークで繋げる仕組みである
 
+### 7章 アイデンティティとガバナンス
+* AWSアカウントとAWS Organizations
+* IAM と IAMアイデンティティセンター
 
 ## 所感.
 * 質問に答えるだけで簡単そう。
