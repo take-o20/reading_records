@@ -76,7 +76,12 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
         * 前者をよく使う
         * HSMは大規模向けで、VPC内で専用のハードウェアを利用して鍵を管理する
 * セキュリティサービス
+* p214のコラム - saaの後に取る資格について
 
+
+### 9章 アプリケーションサービス
+* AWSのサーバー上に構築されている。構築・メンテナンスが不要なので、コスト面やセキュリティ面においても自前でつくるより良い
+* キューサービスやSNS(Simple Notification Service)など
 
 
 ## 所感.
