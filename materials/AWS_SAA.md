@@ -69,6 +69,16 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * AWSアカウントとAWS Organizations
 * IAM と IAMアイデンティティセンター
 
+### 8章 セキュリティサービス
+* 鍵管理
+    * KMS と CloudHSM
+        * Hardware Security Module
+        * 前者をよく使う
+        * HSMは大規模向けで、VPC内で専用のハードウェアを利用して鍵を管理する
+* セキュリティサービス
+
+
+
 ## 所感.
 * 質問に答えるだけで簡単そう。
 
