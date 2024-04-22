@@ -99,6 +99,10 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * データ転送サービス
     * AWS Snowball
 
+### 11章 コスト管理
+* EC2/RDSのコスト管理
+* コスト管理サービス
+
 ## 所感.
 * 質問に答えるだけで簡単そう。
 
