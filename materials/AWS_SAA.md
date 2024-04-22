@@ -83,6 +83,21 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * AWSのサーバー上に構築されている。構築・メンテナンスが不要なので、コスト面やセキュリティ面においても自前でつくるより良い
 * キューサービスやSNS(Simple Notification Service)など
 
+### 10章 分析サービスとデータ転送サービス
+* 分散処理
+    * Amazon EMR - Elastic MapReduce
+    * 分散処理基盤
+    * 分散処理アプリケーション基盤
+        * Hadoop
+        * Apache Spark
+* 分析サービス
+    * ETLツール - Elastic Transform Load
+    * Kinesis
+    * Data Pipeline
+    * Athena 対話型分析ツール
+    * Amazon QuickSight 視覚化ツール
+* データ転送サービス
+    * AWS Snowball
 
 ## 所感.
 * 質問に答えるだけで簡単そう。
