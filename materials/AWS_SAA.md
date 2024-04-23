@@ -103,6 +103,30 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * EC2/RDSのコスト管理
 * コスト管理サービス
 
+### 12章 運用支援サービス
+
+### 13章 AWSのアーキテクチャ設計
+* ホワイトペーパー
+    * https://aws.amazon.com/jp/whitepapers
+* AWS Well-Architectedフレームワーク
+    * https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html
+* セキュアなアーキテクチャ
+* 弾力性に優れたアーキテクチャ
+* 高パフォーマンスなアーキテクチャ
+    * リソースの選択
+        * コンピューティングリソース
+        * ストレージリソース
+        * データベースリソース
+        * ネットワークリソース
+* コストを最適化したアーキテクチャ
+    * AWSから外部への通信にはお金がかかる。
+        * インバウンドにはかからないがアウトバウンドにはコストがかかる。
+    * インスタンスの選択
+        * オンデマンドインスタンス
+        * リザーブドインスタンス
+        * スポットインスタンス
+
+
 ## 所感.
 * 質問に答えるだけで簡単そう。
 
