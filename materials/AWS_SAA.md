@@ -42,3 +42,21 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * 質問に答えるだけで簡単そう。
 
 
+## サービス
+* Amazon EventBridge
+    * イベントを使用してアプリケーションコンポーネント同士を接続するサーバレスサービス
+* Amazon SageMaker
+    * フルマネージド型の機械学習サービス
+* AWS SQS - Simple Queue Service
+* AWS Direct Connect
+* AWS Site-to-Site VPN
+* Amazon OpenSearch
+    * ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などの、完全オープンソースの検索および分析エンジン
+* Amazon OpenSearch Service
+    * OpenSearchクラスターのすべてのリソースをプロビジョニングして、OpenSearchクラスターを起動する
+* Amazon Kinesis Data Analytics
+* Amazon Kinesis Data Firehose
+* Amazon OpenSearch Service
+* Amazon Kinesis Data Streams
+
+
