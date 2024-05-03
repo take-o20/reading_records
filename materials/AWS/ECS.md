@@ -15,4 +15,3 @@
 
 ## Amazon ECS クラスターの自動スケーリング
 * https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/cluster-auto-scaling.html#update-ecs-resources-cas
-* 
