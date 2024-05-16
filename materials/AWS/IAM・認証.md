@@ -22,3 +22,21 @@
     * Aurora MySQL
     * Aurora PostgreSQL 
 
+## STS
+* Security Token Service
+    * AWS STSを利用したウェブ ID フェデレーション
+
+
+## SCPとIAMポリシー
+* 双方で明示されている権限だけがユーザーに適用される
+    * SCPとIAMポリシーの共通部分のみ
+
+## AD Connector
+AD ConnectorはIAMとオンプレミス環境のMS Active Directoryとを連携するのに利用します
+
+
+## AWS Organizations
+* Service Control Policy
+    * ルートアカウント単位で組織(OU)を管理するためのポリシータイプ
+    * 組織単位であるためユーザー単位ではない <-> OU単位
+        * ユーザー単位はIAMポリシーによって行う

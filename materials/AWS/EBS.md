@@ -1,4 +1,5 @@
 # EBS
+Elastic Block Store
 
 ## Amazon Data Lifecycle Manager（DLM）
 * EBSスナップショットとEBS-backed AMI の作成、保持、削除を自動化できる。
@@ -16,5 +17,11 @@
 ## RAID1
 * 目的：ボリュームの冗長性を高める。
 * RAID1では2つのボリュームを同時にミラーリングする
+
+
+## デタッチ
+* https://docs.aws.amazon.com/ja_jp/ebs/latest/userguide/ebs-detaching-volume.html
+* ボリュームをインスタンスからデタッチしてから、別のインスタンスにアタッチまたは削除する必要がある。
+* ボリュームをデタッチしても、ボリュームのデータには影響しない
 
 
