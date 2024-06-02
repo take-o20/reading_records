@@ -131,3 +131,66 @@ https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/
 * 質問に答えるだけで簡単そう。
 
 
+## サービス
+* Amazon EventBridge
+    * イベントを使用してアプリケーションコンポーネント同士を接続するサーバレスサービス
+* Amazon SageMaker
+    * フルマネージド型の機械学習サービス
+* AWS SQS - Simple Queue Service
+* AWS Direct Connect
+* AWS Site-to-Site VPN
+* Amazon OpenSearch
+    * ログ分析、リアルタイムのアプリケーションモニタリング、クリックストリーム分析などの、完全オープンソースの検索および分析エンジン
+* Amazon OpenSearch Service
+    * OpenSearchクラスターのすべてのリソースをプロビジョニングして、OpenSearchクラスターを起動する
+* Amazon Kinesis Data Analytics
+* Amazon Kinesis Data Firehose
+* Amazon OpenSearch Service
+* Amazon Kinesis Data Streams
+
+### ネットワーキング
+* AWS CloudFront
+    * コンテンツ配信のルーティングを最適化する
+        * html, javascript, 画像 etc..
+
+### ストレージ
+* SSE-KMS
+    * Server Side Encryption - Key Managed Service
+
+### データベースサービス
+* Amazon DynamoDB
+    * あらゆる規模で一桁ミリ秒のパフォーマンスを実現する、サーバーレス NoSQL フルマネージドデータベース
+
+    
+### 証明書
+* AWS Certificate Manager
+    * AWS サービスと内部接続リソースで使用するパブリックおよびプライベート SSL/TLS 証明書をプロビジョニング、管理、および展開します。ACM を使用すれば、SSL/TLS 証明書の購入、アップロード、および更新という時間のかかるプロセスを手動で行う必要がなくなります。
+        * 自動更新できる証明書はAWSで発行したものに限る。（サードパティ証明書は手動）
+
+
+### コンテナ
+* AWS Fargate
+    * コンテナ向けサーバーレスコンピューティング
+        * サーバーの管理は不要でアプリケーションの実行ができ、使用したリソースに対し従量課金される。
+* AWS ECS(Elastic Container Service)
+    * フルマネージドのコンテナオーケストレーションサービスである
+* AWS ECR(Elastic Container Registry)
+    * ハイパフォーマンスホスティングを提供するフルマネージドコンテナレジストリである。
+* Amazon Elastic Kubernetes Service (Amazon EKS)
+    * AWS クラウドおよびオンプレミスデータセンターで Kubernetes を実行するためのマネージド Kubernetes サービスです。
+
+
+### 機械学習サービス
+* Amazon Transcribe
+    * 音声をテキストに翻訳するサービス
+* Amazon Textract
+    * 光学文字認識
+* Amazon Comprehend
+    * 機械学習を使用して、テキストからインサイトや関係性を発見するための自然言語処理 (NLP) サービスです。
+* Amazon Rekognition
+    * 事前トレーニングされたカスタマイズ可能なコンピュータビジョン (CV) 機能を提供して、画像と動画から情報とインサイトを抽出します。
+
+
+
+
+
