@@ -18,4 +18,5 @@
 | 2024/04/21 | [「うまく言葉にできない」がなくなる 言語化大全](./materials/言語化大全.md)              |
 | 2024/04/21 | [論理的美術鑑賞](./materials/論理的美術鑑賞.md)                                         |
 | 2024/04/25 | [人生は20代で決まる](./materials/人生は20代で決まる.md)                                 |
-| | [Web API The Good Parts](./materials/Web%20API%20The%20Good%20Parts.md) |
+|            | [Web API The Good Parts](./materials/Web%20API%20The%20Good%20Parts.md)                 |
+| 2024/08/09 | [仕事も人間関係もうまくいく放っておく力](./materials/放っておく力.md)                   |
