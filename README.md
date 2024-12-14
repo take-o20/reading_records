@@ -27,3 +27,5 @@
 | 2024/10/06 | [透明な螺旋](./materials/透明な螺旋.md)                                                             |
 | 2024/10/26 | [アルケミスト](./materials/アルケミスト.md)                                                         |
 |            | [人を動かす](./materials/人を動かす.md)                                                             |
+| 2024/12/14 | [The psychology of money](./materials/the_psychology_of_money.md)                                 |
+
