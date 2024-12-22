@@ -28,4 +28,4 @@
 | 2024/10/26 | [アルケミスト](./materials/アルケミスト.md)                                                         |
 |            | [人を動かす](./materials/人を動かす.md)                                                             |
 | 2024/12/14 | [The psychology of money](./materials/the_psychology_of_money.md)                                 |
-
+| 2024/12/22 | [DIE WITH ZERO](./materials/DIE_WITH_ZERO.md)                                 |
