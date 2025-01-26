@@ -30,3 +30,4 @@
 | 2024/12/14 | [The psychology of money](./materials/the_psychology_of_money.md)                                   |
 | 2024/12/22 | [DIE WITH ZERO](./materials/DIE_WITH_ZERO.md)                                                       |
 | reading    | [JUST KEEP BUYING](./materials/JUST_KEEP_BUYING.md)                                                 |
+| 2025/01/24 | [また、同じ夢を見ていた](./materials/また、同じ夢を見ていた.md)                                     |
