@@ -29,5 +29,8 @@
 | reading    | [人を動かす](./materials/人を動かす.md)                                                             |
 | 2024/12/14 | [The psychology of money](./materials/the_psychology_of_money.md)                                   |
 | 2024/12/22 | [DIE WITH ZERO](./materials/DIE_WITH_ZERO.md)                                                       |
-| reading    | [JUST KEEP BUYING](./materials/JUST_KEEP_BUYING.md)                                                 |
+| 2025/01/21 | [JUST KEEP BUYING](./materials/JUST_KEEP_BUYING.md)                                                 |
 | 2025/01/24 | [また、同じ夢を見ていた](./materials/また、同じ夢を見ていた.md)                                     |
+| 2025/02/26 | [同士少女よ、敵を撃て](./materials/同士少女よ、敵を撃て.md)                                         |
+| reading    | [悪文の構造](./materials/悪文の構造.md)                                                             |
+| 2025/03/16 | [「なぜ」と聞かない質問術](./materials/「なぜ」と聞かない質問術.md)                                 |
