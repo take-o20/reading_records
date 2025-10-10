@@ -90,6 +90,17 @@ Springについて知りたいと思ったから。
 
 ## 10章 Spring Bootによる生産性の向上
 
+* ライブラリの一括取得
+* オートコンフィグレーション
+* JPA: Java Persistence APIの略。RDBのデータをJavaオブジェクトにマッピングするためのAPI仕様。
+* Hibernate（ハイバネート）とはオープンソースのJavaのORMフレームワーク。
+* 組み込みAP（アプリケーション）サーバ
+* ハンズオンを通して@SpringBootApplicationが以下3つのアノテーションを内部で呼んでることへの理解が深まった。
+  * @Configuration
+  * @ComponentScan
+  * @EnableTransactionManagement
+
+
 ## 11章 Spring MVC + Thymeleaf
 
 ## 12章 RESTful Webサービスの作成
