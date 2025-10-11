@@ -103,6 +103,12 @@ Springについて知りたいと思ったから。
 
 ## 11章 Spring MVC + Thymeleaf
 
+* MVC: Model View Controller
+* Thymeleaf: テンプレートエンジン
+* Springを使ったWebアプリケーションの全体像が見えた気がする。
+* ハンズオンがわかりやすかった。よく理解できた。
+  * 内容がちゃんと本書にマッチしているのが良い。本書に記載されてないことが出てこないのが良い。
+
 ## 12章 RESTful Webサービスの作成
 
 
