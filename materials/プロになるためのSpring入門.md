@@ -111,6 +111,11 @@ Springについて知りたいと思ったから。
 
 ## 12章 RESTful Webサービスの作成
 
+* Single Page Application
+* RESTについての説明がある。
+* RESTを簡単に作ることができる
+  * RestControllerが便利である
+
 
 ## 13章 更新系のREST APIの作成
 
